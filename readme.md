@@ -4,7 +4,7 @@
 
 Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
-<img src="media/screenshot.png" width="694" height="440">
+<img src="media/screenshot.png" width="694" height="640">
 
 
 ## Install
