@@ -2,8 +2,6 @@
 const alfy = require("alfy");
 const search = require("./search");
 
-const q = new RegExp(`^${alfy.input}*`, "i");
-
 (async () => {
   const data = await alfy.fetch("https://docs.flutter.io/flutter/index.json", {
     json: true,
