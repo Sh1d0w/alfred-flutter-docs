@@ -15,6 +15,8 @@ $ npm install --global alfred-flutter-docs
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
+Or you can directly download `alfred-flutter-docs.alfredworkflow` from the [Releases](https://github.com/Sh1d0w/alfred-flutter-docs/releases) page.
+
 
 ## Usage
 
