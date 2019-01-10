@@ -2,6 +2,9 @@
 
 > [Alfred 3](https://www.alfredapp.com) workflow to search [Flutter Docs](https://docs.flutter.io/)
 
+[![](https://img.shields.io/npm/v/alfred-flutter-docs.svg)](alfred-flutter-docs)
+[![](https://img.shields.io/npm/dt/alfred-flutter-docs.svg)](alfred-flutter-docs)
+
 Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
 <img src="media/screenshot.png" width="694" height="640">
