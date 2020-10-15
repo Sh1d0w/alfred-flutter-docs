@@ -1,6 +1,6 @@
 {
   "name": "alfred-flutter-docs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search Flutter Docs from Alfred",
   "repository": "Sh1d0w/alfred-flutter-docs",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "author": "Radoslav Vitanov<radoslav.vitanov@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "alfy": "^0.9.1"
+    "alfy": "0.10.0"
   },
   "devDependencies": {
     "prettier": "^1.15.3"
