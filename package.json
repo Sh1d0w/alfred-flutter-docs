@@ -1,0 +1,27 @@
+{
+  "name": "alfred-flutter-docs",
+  "version": "1.0.2",
+  "description": "Search Flutetr Docs from Alfred",
+  "repository": "Sh1d0w/alfred-flutter-docs",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup",
+    "prettier": "./node_modules/.bin/prettier --write \"src/**/*.js\""
+  },
+  "keywords": [
+    "Flutter",
+    "Alfred"
+  ],
+  "author": "Radoslav Vitanov<radoslav.vitanov@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.9.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
